@@ -8,8 +8,6 @@ A GUI-based video editing tool for creating sub-clips from videos using marked c
 - Frame-accurate navigation
 - Mark multiple cut points
 - Export segments with original filename + numbering
-- Automatic FPS detection
-- Progress logging
 
 ## Requirements
 - **Windows OS** (Tested on Windows 10/11)
